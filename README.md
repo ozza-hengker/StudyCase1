@@ -1,4 +1,4 @@
-# StudyCase1
+# Study Case 1
 # 🤖 Study Case 1 ROBOTIIK
 
 ## 📌 Deskripsi Proyek
