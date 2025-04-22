@@ -65,9 +65,9 @@ Sensor Suhu dinyalakan.
 
 ---
 ### 🧑‍💻 Penulis
-# Nama : Muhammad Dzakwan Ikram
-# NIM  : 245150301111019
+#### Nama : Muhammad Dzakwan Ikram
+#### NIM  : 245150301111019
 
-###### END
+# END
 
 
