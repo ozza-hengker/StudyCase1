@@ -39,7 +39,7 @@ pip install keyboard
 
 ## Jalankan Program
 ```bash
-python smart_home.py
+python StudyCase1.py
 ```
 
 ---
