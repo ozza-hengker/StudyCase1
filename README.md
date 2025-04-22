@@ -4,7 +4,7 @@
 ## 📌 Deskripsi Proyek
 Proyek ini merupakan implementasi **Object-Oriented Programming (OOP)** dalam Python yang mensimulasikan **sistem kontrol rumah pintar (Smart Home System)**. Program ini menggunakan library `keyboard` untuk mendeteksi input dari pengguna dalam bentuk penekanan tombol, dan menjalankan logika kendali perangkat pintar rumah seperti **lampu otomatis**, **kipas**, dan **sensor suhu**.
 
-Proyek ini dibuat sebagai bagian dari **Studi Kasus 1 mata kuliah ROBOTIIK**.
+Proyek ini dibuat sebagai bagian dari **Studi Kasus 1 ROBOTIIK**.
 
 ---
 
