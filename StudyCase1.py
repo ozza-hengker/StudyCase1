@@ -29,7 +29,6 @@ class SistemRumahPintar:
         print("Tekan 't' untuk menyalakan/mematikan Sensor Suhu")
         print("Aktifkan semua untuk melihat status rumah...\n")
 
-        # Thread untuk memantau status rumah
         status_thread = threading.Thread(target=self.tampilkan_status_rumah)
         status_thread.start()
         status_thread.join()
